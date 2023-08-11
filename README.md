@@ -80,10 +80,8 @@ Arquivo de Setores do Txt:
   6 - Total de Clientes por Países
   7 - Total e Variação de Clientes
   8 - Média e Variação de Clientes
-  9 - Meta da Média do Imc  dos Usuários
-  10 - Meta da Média do Imc por Cidades
-  11 - Máxima e Meta Mínima de Clientes
-  12 - Mediana de Clientes em Desvio Padrão
+  9 - Máxima e Meta Mínima de Clientes
+  10 - Mediana de Clientes em Desvio Padrão
 
 ```
 
